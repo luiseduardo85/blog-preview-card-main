@@ -19,7 +19,7 @@ body{
 }
 
 main{
-    width: 360px;
+    width: 350px;
     height: 500px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 18px;
